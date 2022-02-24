@@ -15,6 +15,8 @@
 * npm
 * jquery
 * bootstrap
+* jest
+* babel
 
 ## Description
 
