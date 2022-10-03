@@ -28,6 +28,12 @@ An Example Calculator to learn the latest development tools
 * Run npm run build
 * Run npm start
 
+* Installing all packages with $ npm install.
+* Building the project using webpack with $ npm run build
+* Starting a development server with $ npm run start
+* Linting JS files in the src folder with $ npm run lint
+* Running tests with Jest using $ npm run test
+
 ## Known Bugs
 
 * Lint gives warning for spacing
